@@ -1,3 +1,7 @@
-# Taking notes while going through the Rust tutorial found [here](https://doc.rust-lang.org/book/title-page.html)
+# Rust programming
 
-## Currently on chapter 3.1 Common Programming Concepts
+## Tutorial
+Rust tutorial found [here](https://doc.rust-lang.org/book/title-page.html)
+
+## Currently working on...
+Chapter 3.1 Variables and Mutability
